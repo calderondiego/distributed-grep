@@ -1,0 +1,10 @@
+fa23-cs425-8801.cs.illinois.edu:4250
+fa23-cs425-8802.cs.illinois.edu:4250
+fa23-cs425-8803.cs.illinois.edu:4250
+fa23-cs425-8804.cs.illinois.edu:4250
+fa23-cs425-8805.cs.illinois.edu:4250
+fa23-cs425-8806.cs.illinois.edu:4250
+fa23-cs425-8807.cs.illinois.edu:4250
+fa23-cs425-8808.cs.illinois.edu:4250
+fa23-cs425-8809.cs.illinois.edu:4250
+fa23-cs425-8810.cs.illinois.edu:4250
